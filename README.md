@@ -2,8 +2,8 @@
 -------------------------------------
 ## Install
 
-`$git clone https://github.com/wishingwelldevelopments/dol
+```$git clone https://github.com/wishingwelldevelopments/dol
 
 $cd dol
 
-$sudo mv dol /usr/bin/`
+$sudo mv dol /usr/bin/```
