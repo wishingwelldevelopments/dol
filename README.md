@@ -1,4 +1,4 @@
-# dol - Simple Terminal Todo List App
+# dol - Simple Terminal Todo List App.
 -------------------------------------
 ## Install
 
